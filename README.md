@@ -11,6 +11,7 @@ Design files of antennas used in my researches and projects.
 
 ### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
+(No backside plane.)
 
 ### Radiation Pattern
 
