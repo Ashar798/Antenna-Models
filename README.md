@@ -79,7 +79,7 @@ Design files of antennas used in my researches and projects.
 0.01 inch Rogers RT/duroid 5880.
 
 ### Antenna Model
-<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x5Series_EdgeFed_RT5880.svg" width="300">
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/24G_1x5Series_EdgeFed_RT5880.svg" width="150">
 
 ### Radiation Pattern
 
