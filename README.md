@@ -28,6 +28,14 @@ Design files of antennas used in my researches and projects.
 ## 5.8 GHz Edge-Fed Patch Antenna
 *5.8G_Patch_EdgeFet_FR4.cst*
 
+#### Radiation Pattern
+
+##### E-plane
+<img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternE_5.8G_Patch_EdgeFed_FR4.svg" width="300">
+
+##### H-plane
+<img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_5.8G_Patch_EdgeFed_FR4.svg" width="300">
+
 ## 6 GHz Edge-Fed 2x2 Patch Array
 *6G_2x2Patch_EdgeFed_FR4.cst*
 
