@@ -26,7 +26,7 @@ Design files of antennas used in my researches and projects.
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_2.4G_Patch_EdgeFed_FR4.svg" width="300">
 
 ## 5.8 GHz Edge-Fed Patch Antenna
-*5.8G_Patch_EdgeFet_FR4.cst*
+*5.8G_Patch_EdgeFed_FR4.cst*
 
 #### Radiation Pattern
 
