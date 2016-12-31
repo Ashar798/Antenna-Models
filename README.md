@@ -26,6 +26,9 @@ Design files of antennas used in my researches and projects.
 ### Material
 0.062 inch FR4 with 1 oz copper.
 
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/2.4G_Patch_EdgeFed_FR4.svg" width="300">
+
 ### Radiation Pattern
 
 #### E-plane (Degree vs. dBi)
@@ -56,6 +59,9 @@ Design files of antennas used in my researches and projects.
 
 ### Material
 0.062 inch FR4 with 1 oz copper.
+
+### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/6G_2x2Patch_EdgeFed_FR4.svg" width="300">
 
 ### Radiation Pattern
 
