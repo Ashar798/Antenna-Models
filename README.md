@@ -6,6 +6,9 @@ Design files of antennas used in my researches and projects.
 ## 1.58 GHz Planar Monopole Antenna
 *1.58G_planarMonopole_EdgeFed_FR4.cst*
 
+#### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
+
 #### Radiation Pattern
 
 ##### E-plane (Degree vs. dBi)
@@ -27,6 +30,9 @@ Design files of antennas used in my researches and projects.
 
 ## 5.8 GHz Edge-Fed Patch Antenna
 *5.8G_Patch_EdgeFed_FR4.cst*
+
+#### Antenna Model
+<img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Patch_EdgeFed_FR4.svg" width="300">
 
 #### Radiation Pattern
 
