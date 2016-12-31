@@ -7,7 +7,7 @@ Design files of antennas used in my researches and projects.
 *1.58G_planarMonopole_EdgeFed_FR4.cst*
 
 ### Material
-0.062 in FR4 with 1 oz copper.
+0.062 inch FR4 with 1 oz copper.
 
 ### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
@@ -24,7 +24,7 @@ Design files of antennas used in my researches and projects.
 *2.4G_Patch_EdgeFed_FR4.cst*
 
 ### Material
-0.062 in FR4 with 1 oz copper.
+0.062 inch FR4 with 1 oz copper.
 
 ### Radiation Pattern
 
@@ -38,7 +38,7 @@ Design files of antennas used in my researches and projects.
 *5.8G_Patch_EdgeFed_FR4.cst*
 
 ### Material
-0.062 in FR4 with 1 oz copper.
+0.062 inch FR4 with 1 oz copper.
 
 ### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Patch_EdgeFed_FR4.svg" width="300">
@@ -55,7 +55,7 @@ Design files of antennas used in my researches and projects.
 *6G_2x2Patch_EdgeFed_FR4.cst*
 
 ### Material
-0.062 in FR4 with 1 oz copper.
+0.062 inch FR4 with 1 oz copper.
 
 ### Radiation Pattern
 
