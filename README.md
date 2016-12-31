@@ -6,6 +6,9 @@ Design files of antennas used in my researches and projects.
 ## 1.58 GHz Planar Monopole Antenna
 *1.58G_planarMonopole_EdgeFed_FR4.cst*
 
+#### Material
+0.062 in FR4 with 1 oz copper.
+
 #### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
 
@@ -20,6 +23,9 @@ Design files of antennas used in my researches and projects.
 ## 2.4 GHz Edge-Fed Patch Antenna
 *2.4G_Patch_EdgeFed_FR4.cst*
 
+#### Material
+0.062 in FR4 with 1 oz copper.
+
 #### Radiation Pattern
 
 ##### E-plane (Degree vs. dBi)
@@ -30,6 +36,9 @@ Design files of antennas used in my researches and projects.
 
 ## 5.8 GHz Edge-Fed Patch Antenna
 *5.8G_Patch_EdgeFed_FR4.cst*
+
+#### Material
+0.062 in FR4 with 1 oz copper.
 
 #### Antenna Model
 <img src="https://rookiepeng.github.io/Antenna-Design/img/antenna/5.8G_Patch_EdgeFed_FR4.svg" width="300">
@@ -44,6 +53,9 @@ Design files of antennas used in my researches and projects.
 
 ## 6 GHz Edge-Fed 2x2 Patch Array
 *6G_2x2Patch_EdgeFed_FR4.cst*
+
+#### Material
+0.062 in FR4 with 1 oz copper.
 
 #### Radiation Pattern
 
