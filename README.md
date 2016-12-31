@@ -8,10 +8,10 @@ Design files of antennas used in my researches and projects.
 
 #### Radiation Pattern
 
-##### E-plane
+##### E-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternE_1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
 
-##### H-plane
+##### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_1.58G_planarMonopole_EdgeFed_FR4.svg" width="300">
 
 ## 2.4 GHz Edge-Fed Patch Antenna
@@ -19,10 +19,10 @@ Design files of antennas used in my researches and projects.
 
 #### Radiation Pattern
 
-##### E-plane
+##### E-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternE_2.4G_Patch_EdgeFed_FR4.svg" width="300">
 
-##### H-plane
+##### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_2.4G_Patch_EdgeFed_FR4.svg" width="300">
 
 ## 5.8 GHz Edge-Fed Patch Antenna
@@ -30,10 +30,10 @@ Design files of antennas used in my researches and projects.
 
 #### Radiation Pattern
 
-##### E-plane
+##### E-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternE_5.8G_Patch_EdgeFed_FR4.svg" width="300">
 
-##### H-plane
+##### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_5.8G_Patch_EdgeFed_FR4.svg" width="300">
 
 ## 6 GHz Edge-Fed 2x2 Patch Array
@@ -41,8 +41,8 @@ Design files of antennas used in my researches and projects.
 
 #### Radiation Pattern
 
-##### E-plane
+##### E-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternE_6G_2x2Patch_EdgeFed_FR4.svg" width="300">
 
-##### H-plane
+##### H-plane (Degree vs. dBi)
 <img src="https://rookiepeng.github.io/Antenna-Design/img/farfield/patternH_6G_2x2Patch_EdgeFed_FR4.svg" width="300">
