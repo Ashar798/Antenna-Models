@@ -4,19 +4,13 @@
 	 viewBox="0 0 303.2 303.4" style="enable-background:new 0 0 303.2 303.4;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#010101;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;}
-	.st1{fill:#010101;stroke:#231F20;stroke-width:0.1;stroke-miterlimit:10;}
-	.st2{fill:#010101;}
+	.st1{fill:#010101;}
+	.st2{fill:#231F20;stroke:#010101;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;}
 </style>
 <title>5.8G_Patch_EdgeFed_FR4</title>
 <rect x="0.4" y="0.4" class="st0" width="302.5" height="302.6"/>
-<polygon class="st1" points="86.9,102 216.5,175.4 86.9,175.4 "/>
-<polygon class="st1" points="86.9,102 216.5,102 216.5,175.4 "/>
-<polygon class="st1" points="164.6,175.4 216.5,201.4 164.6,201.4 "/>
-<polygon class="st1" points="164.6,175.4 216.5,175.4 216.5,201.4 "/>
-<polygon class="st1" points="86.9,175.4 138.7,201.4 86.9,201.4 "/>
-<polygon class="st1" points="86.9,175.4 138.7,175.4 138.7,201.4 "/>
-<polygon class="st2" points="147.4,175.4 156,303 147.4,303 "/>
-<polygon class="st2" points="147.4,175.4 156,175.4 156,303 "/>
+<polygon class="st1" points="147.4,175.4 156,303 147.4,303 "/>
+<polygon class="st1" points="147.4,175.4 156,175.4 156,303 "/>
 <rect x="147.4" y="175.4" class="st0" width="8.6" height="127.6"/>
-<polygon class="st0" points="138.7,201.4 138.7,175.4 164.6,175.4 164.6,201.4 216.5,201.4 216.5,102 86.9,102 86.9,201.4 "/>
+<polygon class="st2" points="138.7,201.4 138.7,175.4 164.6,175.4 164.6,201.4 216.5,201.4 216.5,102 86.9,102 86.9,201.4 "/>
 </svg>
