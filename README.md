@@ -17,9 +17,7 @@ Design files of antennas used in my researches and projects.
 - [10.3 GHz Bull-Eye Antenna with Surface Metal](#103-ghz-bull-eye-antenna-with-surface-metal)
 - [24 GHz Edge-Fed 1x5 Series-Fed Array on RT5880](#24-ghz-edge-fed-1x5-series-fed-array-on-rt5880)
 
-<a name="158-ghz-planar-monopole-antenna-on-fr4">
 ## 1.58 GHz Planar Monopole Antenna on FR4
-</a>
 *1.58G_planarMonopole_EdgeFed_FR4.cst*
 
 ### Material
